@@ -1,3 +1,6 @@
+<p align="left">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/a/a9/Amazon_logo.svg" alt="Amazon Logo" width="80"/>
+</p>
 # Amazon Məhsul Təsnifatlandırma Sistemi
 
 Bu layihə, məhsul adlarına əsaslanaraq kateqoriyaları avtomatik müəyyən etmək üçün süni intellektdən istifadə edən bir sistemdir. Layihə, məhsul adlarını təmizləyir, TF-IDF vektorizasiyasından istifadə edərək mətnləri vektorlaşdırır və Logistic Regression modeli ilə kateqoriyaları proqnozlaşdırır.
