@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fmagzoid.com%2Famazon-unveils-first-major-logo-redesign-in-20-years%2F&psig=AOvVaw1V6QxfErPuI-TKPAMnR2oE&ust=1747077067441000&source=images&cd=vfe&opi=89978449&ved=0CBUQjRxqFwoTCJihx7WPnI0DFQAAAAAdAAAAABAE" alt="Amazon Logo" width="150"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/a/a9/Amazon_logo.svg" alt="Amazon Logo" width="150"/>
 </p>
 # Amazon Məhsul Təsnifatlandırma Sistemi
 
