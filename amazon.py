@@ -1,7 +1,7 @@
 """
 Amazon Məhsul Təsnifatlandırma Sistemi
-
 Məqsəd: Məhsul adlarına əsaslanaraq kateqoriyanı avtomatik müəyyən etmək üçün süni intellektdən istifadə nümunəsi.
+
 """
 
 import pandas as pd
